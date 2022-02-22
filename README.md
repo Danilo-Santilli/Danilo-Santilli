@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - I'm live in Brazil 🌎
 - I'm studying back-end languages 🖥️
 - I'm currently learning Python 3 📚
-- Procuro emprego na área de programação  🔎
+- I'm looking for a job in the programming field 🔎
