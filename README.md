@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm 21 years old 🎂
+- I'm live in Brazil 🌎
+- I'm studying back-end languages 🖥️
+- I'm currently learning Python 3 📚
+- - I'm looking for a job in the programming field 🔎
