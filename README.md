@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - I'm studying back-end languages 🖥️
 - I'm currently learning Python 3 📚
 - Procuro emprego na área de programação  🔎
-Em
