@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm 21 years old 🎂
-- I'm live in Brazil 🌎
-- I'm studying back-end languages 🖥️
+- I'm 22 years old 🎂
+- I'm live in Ireland 🌎
+- I'm studying front-end languages 🖥️
 - I'm currently learning Front-end languages wiyh HTML5, CSS3, Bootstrap and Javascript 📚
 - I'm looking for a job in the programming field 🔎
