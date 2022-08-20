@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - I'm studying front-end languages 🖥️
 - I'm currently learning Front-end languages wiyh HTML5, CSS3, Bootstrap and Javascript 📚
 - I'm looking for a job in the programming field 🔎
+- I am studying systems analysis and development at Anhembi Morumbi University - Brazil 🎓
