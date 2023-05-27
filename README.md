@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm 23 years old 🎂
-- I'm live in Ireland 🌎
-- I'm studying front-end languages 🖥️
-- I'm currently learning Front-end languages wiyh HTML5, CSS3, Javascript and React JS 📚
-- I'm looking for a job in the programming field 🔎
-- I am studying systems analysis and development at Anhembi Morumbi University - Brazil 🎓
+- 23 years old 🎂
+- Living in Ireland 🌎
+- Studying front-end languages 🖥️
+- Currently learning Front-end languages wiyh HTML5, CSS3, Javascript and React JS 📚
+- Studying systems analysis and development at Anhembi Morumbi University - Brazil 🎓
